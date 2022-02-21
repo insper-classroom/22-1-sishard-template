@@ -1,2 +1,3 @@
-# 22-1-sishard-template
-Template para entrega de atividades
+# SisHard 2022/1
+
+Repositório template para as entregas de SisHard!
